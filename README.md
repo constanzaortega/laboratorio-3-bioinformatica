@@ -33,7 +33,7 @@
 
  #### ¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
 
-- 4 a la 35 kb 
+- 35 kb 
 
 #### ¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
 
