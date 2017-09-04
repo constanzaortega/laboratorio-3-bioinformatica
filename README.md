@@ -47,6 +47,8 @@
 
 #### ¿Cuántos ORF o genes encontró ORFfinder?
 
+![orf]()
+
 - La secuencia entregó 7 orf.
 
 #### ¿Cuántos ORF o genes encontró Glimmer?
