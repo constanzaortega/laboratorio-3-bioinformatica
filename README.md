@@ -47,7 +47,8 @@
 
 #### ¿Cuántos ORF o genes encontró ORFfinder?
 
-![orf]()
+![orf](https://raw.githubusercontent.com/constanzaortega/laboratorio-3-bioinformatica./master/Sin%20t%C3%ADtulo.jpg)
+
 
 - La secuencia entregó 7 orf.
 
