@@ -70,7 +70,7 @@
 
 #### Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder
 
-- Según la secuencias de nucleotidos entregadas, por ambos programas GLIMMER y ORFinder dan como resultado proteinas de tipo deshidrogenasa de una bacteria (Haemophilus influenzae).
+- Según la secuencias de nucleotidos entregadas por ambos programas GLIMMER y ORFinder dan como resultado proteinas de tipo deshidrogenasa de una bacteria (Haemophilus influenzae).
 
 
 ## Bibliografía
